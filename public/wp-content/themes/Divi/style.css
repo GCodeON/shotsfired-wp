@@ -2951,9 +2951,11 @@ div.pp_overlay {
 
 /* Bottom Bar */
 #footer-bottom {
-	padding: 15px 0 5px;
+	padding: 50px 10px;
 	background-color: #1f1f1f;
 	background-color: rgba(0, 0, 0, 0.32);
+	background: url(./images/fire-bg.gif);
+    background-size: cover;
 }
 
 #footer-bottom a {
