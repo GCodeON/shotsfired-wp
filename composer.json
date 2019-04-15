@@ -8,7 +8,7 @@
     "require": {
         "php": ">=5.4",
         "composer/installers": "1.*",
-        "johnpbloch/wordpress": "4.*"
+        "johnpbloch/wordpress": "4.9.8"
     },
     "extra": {
         "wordpress-install-dir": "public/wp",
